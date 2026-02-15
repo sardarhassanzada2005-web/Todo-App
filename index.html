@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <h1>Todo App</h1>
+    <div class="wrapper">
+        <form>
+            <input type="text" id="todo-input" placeholder="write anything and hit enter to add" autocomplete="off">
+            <button type="submit" id="add-button">ADD</button>
+        </form>
+        <ul id="todo-list">
+
+            <li class="todo">
+                <input type="checkbox" id="todo-1">
+                <label class="custom-checkbox" for="todo-1">
+                    <img src="icons/check_small_30dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="done icon" fill="transparent">
+                </label>
+                <label class="todo-text" for="todo-1" >
+                    webdev css html js 
+                </label>
+                <button class="delete-btn">
+                    <img  src="icons/delete_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="delete btn">
+                </button>
+            </li>
+
+             <li class="todo">
+                <input type="checkbox" id="todo-2">
+                <label class="custom-checkbox" for="todo-2">
+                    <img src="icons/check_small_30dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="done icon" fill="transparent">
+                </label>
+                <label class="todo-text" for="todo-2" >
+                    webdev css html js 
+                </label>
+                <button class="delete-btn">
+                    <img src="icons/delete_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="delete btn">
+                </button>
+            </li>
+
+        </ul>
+    </div>
+    
+</body>
+</html>
