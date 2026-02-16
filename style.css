@@ -98,6 +98,7 @@ form{
 .delete-btn img{
     background-color: #00ffc4;
     transition: 300ms ease-out;
+    border-radius: 100px;
 }
 /*  */
 .delete-btn img:hover{
