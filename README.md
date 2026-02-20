@@ -1,5 +1,5 @@
 
-# 📝 Todo App( JavaScript ) 
+# 📝 Todo App( JS localStorage ) 
 
 >### click [_here_](https://sardarhassanzada2005-web.github.io/Todo-App/) to see demo
 ![todoApp](./icons/screenshot--todoApp.png)
