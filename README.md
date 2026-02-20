@@ -25,6 +25,11 @@
 ### purpose
     This project is part of my preparation for a Junior JavaScript / Ausbildumg
 
+### Next Step
+    - Multi-language support
+    - Improved code structure  ( separating logic and UX )
+    - Dark mode
+    
 _This project will be improved step by step as I continue learnig._
 
 
