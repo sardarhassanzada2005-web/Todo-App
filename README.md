@@ -29,7 +29,9 @@
     - Multi-language support
     - Improved code structure  ( separating logic and UX )
     - Dark mode
-    
+### LICENSE
+    This project is licensed under the MIT License.
+
 _This project will be improved step by step as I continue learnig._
 
 
